@@ -60,7 +60,7 @@ REALTIME_TRACKER
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Realtime-Location-Tracker.git
+git clone https://github.com/Keviv301/Realtime-Location-Tracker.git
 ```
 
 ### Navigate to Project
@@ -107,7 +107,7 @@ http://localhost:3000
 **Vivek Kumar**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/Keviv301
 
 ---
 
