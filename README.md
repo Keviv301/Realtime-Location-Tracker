@@ -51,18 +51,9 @@ REALTIME_TRACKER
 ├── package.json
 └── package-lock.json
 ```
-
 ## 📸 Screenshots
 
-### Home Page
-
-Add your project screenshot here.
-
-Example:
-
-```md
-![Project Screenshot](screenshots/home.png)
-```
+![Real-Time Location Tracker](location-tracker.png)
 
 ## ⚙️ Installation & Setup
 
